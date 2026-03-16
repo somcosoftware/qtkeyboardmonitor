@@ -36,8 +36,8 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
  
  DISCLAIMER: Somco Software does not bear responsibility for inappropriate or malicious use of code in this project
 
-## About Somco Software (previously Scythe Studio)
-We’re a team of **Qt and C++ enthusiasts** dedicated to helping businesses build great cross-platform applications. As an official Qt Service Partner, we’ve earned the trust of companies across various industries by delivering high-quality, reliable solutions. With years of experience in **Qt and QML development**, we know how to turn ambitious ideas into outstanding products.
+## About Somco Software
+[Somco Software](https://somcosoftware.com/en/) (previously Scythe Studio) is an embedded and cross-platform software development company with a strong focus on Qt and C++, delivering reliable, high-quality solutions for regulated industries, with particular expertise in medical devices. We are an ISO 9001 and ISO 13485 certified software house, specializing in GUI development, Linux-based systems, and advanced connectivity solutions. Somco Software is an official Qt Service Partner and a trusted partner of leading hardware manufacturers.
 
 <table style="margin: 0 auto; border:0;">
     <tr style="border:0">
@@ -47,25 +47,25 @@ We’re a team of **Qt and C++ enthusiasts** dedicated to helping businesses bui
             </a>
         </td>
         <td style="border:0">
-            <a href="https://clutch.co/profile/scythe-studio">
+            <a href="https://clutch.co/profile/somco-software">
                 <img height="150" width="150"
                     src="https://github.com/user-attachments/assets/023e102e-84c1-4e7e-b9de-cae476e681e7">
             </a>
         </td>
         <td style="border:0">
-            <a href="https://scythe-studio.com/en/iso">
+            <a href="https://somcosoftware.com/en/iso">
                 <img src="./pictures/iso 13485.png">
             </a>
         </td>
         <td style="border:0">
-            <a href="https://scythe-studio.com/en/iso">
+            <a href="https://somcosoftware.com/en/iso">
                 <img src="./pictures/iso 9001.png">
             </a>
         </td>
     </tr>
 </table>
 
-We offer a wide range of services—from brainstorming ideas to delivering polished applications—always tailored to our clients’ needs. By combining deep knowledge of Qt modules and modern technologies with a practical, cost-effective approach, we create solutions that truly make a difference.
+We support projects from design to delivery, offering UX/UI design, custom Yocto Linux images, and development in Qt as well as LVGL and TouchGFX. We also help with software modernization, training, and technical consulting. With a practical, developer-focused approach, we build efficient, reliable solutions that fit real project needs.
 
 # Professional Support
 Need help with anything? We’ve got you covered. Our professional support services are here to assist you with. For more details about support options and pricing, just drop us a line at https://somcosoftware.com/en/contact.
@@ -74,7 +74,7 @@ Need help with anything? We’ve got you covered. Our professional support servi
 Check out those links if you want to see Somco Software in action and follow the newest trends saying about Qt Qml development.
 
 * 🌐 [Somco Software Website](https://somcosoftware.com/en/)
-* ✍️  [Somco Software Blog Website](https://somcosoftware.com/en/blog)
-* 👔 [Somco Software LinkedIn Profile](https://www.linkedin.com/company/scythestudio/mycompany/)
-* 👔 [Somco Software Facebook Page](https://www.facebook.com/ScytheStudiio)
-* 🎥 [Somco Software Youtube Channel](https://www.youtube.com/channel/UCf4OHosddUYcfmLuGU9e-SQ/featured)
+* ✍️ [Somco Software Blog Website](https://somcosoftware.com/en/blog)
+* 👔 [Somco Software LinkedIn Profile](https://www.linkedin.com/company/somcosoftware)
+* 🎥 [Somco Software YouTube Channel](https://www.youtube.com/channel/UCf4OHosddUYcfmLuGU9e-SQ/featured)
+
